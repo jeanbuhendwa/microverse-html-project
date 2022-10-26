@@ -9,11 +9,16 @@
     width:100%;
     text-align: center;
 }
+
 h1 {
     font-size: 4rem;
     margin-bottom: 0;
     
   }
+#img-div{
+    background: white;
+    padding: 20px;
+}
 #image {
     max-width: 100%;
     height: auto;
@@ -23,4 +28,15 @@ h1 {
 }
 img {
     display: block;
+}
+#time-line{
+    margin: auto;
+    width: 60%;
+    text-align: left;
+    padding: 20px;
+    line-height: 2;
+}
+#time-line h2{
+    text-align: center;
+    padding: 20px;
 }
